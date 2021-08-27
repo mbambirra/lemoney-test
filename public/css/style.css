@@ -1,0 +1,36 @@
+body {
+  background-color: #fff;
+}
+
+#mainContent {
+  /* Menu space */
+  padding-top: 56px;
+  /* Min height to keep footer on page bottom */
+  min-height: calc(100vh - 54px);
+}
+
+.bg-custom {
+  background-color: #232b30;
+}
+
+.bg-custom .nav-link {
+  color: #fff;
+  text-decoration: none;
+}
+.bg-custom .nav-link:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.text-custom {
+  color: #f4652e;
+}
+
+.start-90 {
+  left: 90%!important;
+}
+
+#footer p {
+  margin: 0px;
+  padding: 15px;
+}

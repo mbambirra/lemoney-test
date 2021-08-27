@@ -1,0 +1,44 @@
+{
+  "offers": [
+    {
+      "id": "amazon",
+      "advertiser_name": "Amazon",
+      "url": "https://www.amazon.com/",
+      "description": "Don't miss out on the opportunity to receive 30% cashback on any purchase on Amazon!",
+      "starts_at": "01/01/2021",
+      "ends_at": "31/12/2021",
+      "premium": false,
+      "status": "enabled"
+    },
+    {
+      "id": "google",
+      "advertiser_name": "Google",
+      "url": "https://www.google.com/",
+      "description": "Don't miss out on the opportunity to receive 30% cashback on any purchase on Google!",
+      "starts_at": "01/01/2021",
+      "ends_at": "31/12/2021",
+      "premium": false,
+      "status": "enabled"
+    },
+    {
+      "id": "walmart",
+      "advertiser_name": "Walmart",
+      "url": "https://www.walmart.com/",
+      "description": "Don't miss out on the opportunity to receive 30% cashback on any purchase on Walmart!",
+      "starts_at": "01/01/2021",
+      "ends_at": "31/12/2021",
+      "premium": false,
+      "status": "enabled"
+    },
+    {
+      "id": "ebay",
+      "advertiser_name": "Ebay",
+      "url": "https://www.ebay.com/",
+      "description": "Don't miss out on the opportunity to receive 30% cashback on any purchase on Ebay!",
+      "starts_at": "01/01/2021",
+      "ends_at": "31/12/2021",
+      "premium": true,
+      "status": "enabled"
+    }
+  ]
+}
